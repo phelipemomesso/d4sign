@@ -1,0 +1,23 @@
+{
+    "name": "D4sign/D4sign",
+    "description": "Integration to API D4Sign",
+    "keywords": ["laravel", "api", "d4sign"],
+    "authors": [
+        {
+            "name": "Phelipe",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "D4sign\\D4sign\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
+
+
