@@ -15,9 +15,7 @@
         "psr-4": {
             "d4sign\\d4sign\\": "src"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
 
 
