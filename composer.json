@@ -1,5 +1,5 @@
 {
-    "name": "D4sign/D4sign",
+    "name": "d4sign/d4sign",
     "description": "Integration to API D4Sign",
     "keywords": ["laravel", "api", "d4sign"],
     "authors": [
